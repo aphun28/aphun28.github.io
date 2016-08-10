@@ -1,0 +1,10 @@
+ .panel-body img 
+ {
+     height: 300px;
+ }
+.name-group-clearfix{
+    text-align: center;
+}
+.description-container{
+    text-align: center;
+}
