@@ -5,6 +5,10 @@
 .name-group-clearfix{
     text-align: center;
 }
-.description-container{
+
+footer{
+    float:right;
+}
+description-container{
     text-align: center;
 }
